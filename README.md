@@ -26,4 +26,6 @@ Most of the aspects of the actual game can be encorporated into the application.
 
 There is an included file called trivia-questions.txt where there are some sample questions with multiple choice answers. Part of the challenge is to be able to fill the board with questions, making sure that the harder questions have a higher value and the easier questions have a lower value. You will need to display the questions with the options and check for correct input.
 
+Sample questions were found using [this neat tool](https://opentdb.com/api_config.php)
+
 The implementation is up to you. This is a 3 hour hack night, so start with your MVP, the smallest piece that you can deliver, and add complexity as you go. Good luck!
